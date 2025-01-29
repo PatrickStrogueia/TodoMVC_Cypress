@@ -3,5 +3,8 @@
   "packageManager": "yarn@4.6.0",
   "devDependencies": {
     "cypress": "^13.17.0"
+  },
+  "scripts": {
+    "cy:open": "yarn cypress open"
   }
 }
